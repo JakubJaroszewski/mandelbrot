@@ -451,4 +451,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+Out/
 # End of https://www.toptal.com/developers/gitignore/api/java,go,r,python,c,c++,julia,cuda,linux,windows,macos
