@@ -7,3 +7,4 @@
 - Dawid Karpiński - Golang
 - Jakub Wawrzonkowski - Mojo
 - Urszula Kamińska - Numba/Numba+CUDA
+- Jakub Jaroszewski - Julia
